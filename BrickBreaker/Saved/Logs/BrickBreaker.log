@@ -2336,3 +2336,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.27-01.50.54:618][460]BlueprintLog: New page: Compile Ball
 [2020.05.27-01.50.54:797][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
 [2020.05.27-01.50.57:796][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.05.27-01.52.38:999][552]LogEditorTransaction: Undo Delete current selection
+[2020.05.27-01.54.12:671][981]BlueprintLog: New page: Compile Ball
+[2020.05.27-01.54.12:854][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.27-01.54.12:857][981]LogScript: Warning: Accessed None trying to read property player
+	Ball_C /Engine/Transient.World_1:PersistentLevel.Ball_C_11
+	Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball:0451
+[2020.05.27-01.54.14:982][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset" SILENT=true
+[2020.05.27-01.54.15:010][ 98]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Ball284F26B942CB765EFE109D9252DE36D5.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset'
+[2020.05.27-01.54.15:025][ 98]AssetCheck: New page: Asset Save: Ball
+[2020.05.27-01.54.15:025][ 98]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball.Ball
+[2020.05.27-01.57.07:559][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset" SILENT=true
+[2020.05.27-01.57.07:591][496]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Ball821EDB6B429AB18A7BFD27B0ED93E63F.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset'
+[2020.05.27-01.57.07:607][496]AssetCheck: New page: Asset Save: Ball
+[2020.05.27-01.57.07:608][496]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball.Ball
+[2020.05.27-01.57.08:460][547]BlueprintLog: New page: Compile Ball
+[2020.05.27-01.57.08:650][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.27-01.57.08:653][547]LogScript: Warning: Accessed None trying to read property player
+	Ball_C /Engine/Transient.World_1:PersistentLevel.Ball_C_12
+	Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball:04C6
+[2020.05.27-01.58.33:172][450]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Block.Block
+[2020.05.27-02.01.46:976][279]BlueprintLog: New page: Compile Block
+[2020.05.27-02.01.47:183][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.05.27-02.01.47:694][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Block" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset" SILENT=true
+[2020.05.27-02.01.47:711][305]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/BlockE8E2AE0F4E4A73E597E1698E97F96E00.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset'
+[2020.05.27-02.01.47:724][305]AssetCheck: New page: Asset Save: Block
+[2020.05.27-02.01.47:724][305]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Block.Block
