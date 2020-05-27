@@ -2362,3 +2362,458 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.27-02.01.47:711][305]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/BlockE8E2AE0F4E4A73E597E1698E97F96E00.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset'
 [2020.05.27-02.01.47:724][305]AssetCheck: New page: Asset Save: Block
 [2020.05.27-02.01.47:724][305]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Block.Block
+[2020.05.27-02.03.28:069][510]BlueprintLog: New page: Compile Block
+[2020.05.27-02.03.28:072][510]LogClass: Warning: Type mismatch in Block Color of Block_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2020.05.27-02.03.28:284][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.05.27-02.04.23:154][230]BlueprintLog: New page: Compile Block
+[2020.05.27-02.04.23:364][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.05.27-02.06.50:513][931]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.07.55:280][315]BlueprintLog: New page: Compile Block
+[2020.05.27-02.07.55:516][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.27-02.08.16:873][340]BlueprintLog: New page: Compile Block
+[2020.05.27-02.08.17:078][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.05.27-02.09.05:725][237]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.09.11:450][332]BlueprintLog: New page: Compile Block
+[2020.05.27-02.09.11:736][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.05.27-02.09.13:071][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Block" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset" SILENT=true
+[2020.05.27-02.09.13:090][406]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/BlockF488C36F4DB71AA131949CAED1527B1A.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset'
+[2020.05.27-02.09.13:103][406]AssetCheck: New page: Asset Save: Block
+[2020.05.27-02.09.13:103][406]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Block.Block
+[2020.05.27-02.09.24:266][ 63]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.10.01:964][  8]BlueprintLog: New page: Compile Block
+[2020.05.27-02.10.02:195][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.27-02.10.10:090][340]BlueprintLog: New page: Compile Block
+[2020.05.27-02.10.10:292][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.05.27-02.10.35:113][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.05.27-02.10.35:147][616]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Map_Auto69F137714464A4F957115EC8DABA4A3D6.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Autosaves/Game/Maps/Map_Auto6.umap'
+[2020.05.27-02.10.35:149][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map' took 0.081
+[2020.05.27-02.10.35:149][616]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.081
+[2020.05.27-02.10.35:149][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Block] ([1] browsable assets)...
+[2020.05.27-02.10.35:166][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Block.Block]
+[2020.05.27-02.10.35:166][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Block]
+[2020.05.27-02.10.35:184][616]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Block_Auto66226EC524CFD6006BDB4B6803F90257A.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Autosaves/Game/Blueprints/Block_Auto6.uasset'
+[2020.05.27-02.10.35:184][616]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.05.27-02.10.46:907][317]BlueprintLog: New page: Compile Block
+[2020.05.27-02.10.47:110][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.27-02.11.20:312][302]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.11.43:701][422]BlueprintLog: New page: Compile Block
+[2020.05.27-02.11.43:960][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.05.27-02.11.44:453][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Block" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset" SILENT=true
+[2020.05.27-02.11.44:470][444]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Block502A8FC34FD1031F61D688B54D9A7E50.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset'
+[2020.05.27-02.11.44:483][444]AssetCheck: New page: Asset Save: Block
+[2020.05.27-02.11.44:483][444]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Block.Block
+[2020.05.27-02.13.49:539][389]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block)
+[2020.05.27-02.14.40:970][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.27-02.14.43:432][448]LogSlate: Window 'Save Content' being destroyed
+[2020.05.27-02.14.43:461][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.27-02.14.43:498][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.05.27-02.14.43:528][448]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/MapE41AFF3F40BFC6039F8BC091D0B05F32.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap'
+[2020.05.27-02.14.43:553][448]LogFileHelpers: Saving map 'Map' took 0.092
+[2020.05.27-02.14.43:564][448]AssetCheck: New page: Asset Save: Map
+[2020.05.27-02.14.43:564][448]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2020.05.27-02.15.14:089][270]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block18)
+[2020.05.27-02.15.38:185][705]BlueprintLog: New page: Compile Player
+[2020.05.27-02.15.38:377][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.05.27-02.15.38:661][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Player.uasset" SILENT=true
+[2020.05.27-02.15.38:687][716]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Player316492EC4FDF8BA00E33A5949189A860.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Player.uasset'
+[2020.05.27-02.15.38:699][716]AssetCheck: New page: Asset Save: Player
+[2020.05.27-02.15.38:699][716]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player.Player
+[2020.05.27-02.15.40:055][796]BlueprintLog: New page: Compile Ball
+[2020.05.27-02.15.40:243][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.05.27-02.15.40:244][796]LogScript: Warning: Accessed None trying to read property player
+	Ball_C /Engine/Transient.World_1:PersistentLevel.Ball_C_13
+	Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball:04C6
+[2020.05.27-02.15.40:747][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset" SILENT=true
+[2020.05.27-02.15.40:779][821]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Ball851247EC44925C6EA3A71FAA75145224.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset'
+[2020.05.27-02.15.40:791][821]AssetCheck: New page: Asset Save: Ball
+[2020.05.27-02.15.40:791][821]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball.Ball
+[2020.05.27-02.15.42:166][901]BlueprintLog: New page: Compile KillZone
+[2020.05.27-02.15.42:356][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.27-02.15.42:955][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KillZone" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/KillZone.uasset" SILENT=true
+[2020.05.27-02.15.42:966][935]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/KillZoneD4453BCC48164A04D98D94999D79F533.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/KillZone.uasset'
+[2020.05.27-02.15.42:978][935]AssetCheck: New page: Asset Save: KillZone
+[2020.05.27-02.15.42:978][935]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KillZone.KillZone
+[2020.05.27-02.15.45:973][113]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-02.15.45:973][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.15.47:679][213]BlueprintLog: New page: Compile Ball
+[2020.05.27-02.15.47:864][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.05.27-02.15.47:865][213]LogScript: Warning: Accessed None trying to read property player
+	Ball_C /Engine/Transient.World_1:PersistentLevel.Ball_C_14
+	Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball:04C6
+[2020.05.27-02.15.48:498][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset" SILENT=true
+[2020.05.27-02.15.48:528][244]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Ball9E6F959041AA2A0DEB50A88DE71B6F89.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset'
+[2020.05.27-02.15.48:539][244]AssetCheck: New page: Asset Save: Ball
+[2020.05.27-02.15.48:540][244]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball.Ball
+[2020.05.27-02.15.49:538][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset" SILENT=true
+[2020.05.27-02.15.49:562][303]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/BallADC13A254414389A01DD30B754B52E38.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Ball.uasset'
+[2020.05.27-02.15.49:574][303]AssetCheck: New page: Asset Save: Ball
+[2020.05.27-02.15.49:574][303]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball.Ball
+[2020.05.27-02.15.56:606][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Block" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset" SILENT=true
+[2020.05.27-02.15.56:619][723]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Block09A5F2CC47EBAB8E210ED48F6ED293FB.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset'
+[2020.05.27-02.15.56:630][723]AssetCheck: New page: Asset Save: Block
+[2020.05.27-02.15.56:630][723]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Block.Block
+[2020.05.27-02.15.57:288][763]BlueprintLog: New page: Compile Block
+[2020.05.27-02.15.57:491][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.05.27-02.16.09:480][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.27-02.16.09:504][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.27-02.16.09:537][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.05.27-02.16.09:568][476]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/MapF62E56E44C103BA83A3C10B412716273.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap'
+[2020.05.27-02.16.09:588][476]LogFileHelpers: Saving map 'Map' took 0.085
+[2020.05.27-02.16.09:598][476]AssetCheck: New page: Asset Save: Map
+[2020.05.27-02.16.09:598][476]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2020.05.27-02.16.11:913][612]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block2)
+[2020.05.27-02.18.45:943][394]BlueprintLog: New page: Compile Block
+[2020.05.27-02.18.46:153][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.05.27-02.18.46:724][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Block" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset" SILENT=true
+[2020.05.27-02.18.46:742][423]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Block5D7D8CE6476594A0C2FCDD85E94DFAB0.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset'
+[2020.05.27-02.18.46:756][423]AssetCheck: New page: Asset Save: Block
+[2020.05.27-02.18.46:756][423]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Block.Block
+[2020.05.27-02.18.56:254][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.27-02.18.56:295][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.05.27-02.18.56:326][991]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Map89A743E44277FC1AF7554E8577B9E8BC.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap'
+[2020.05.27-02.18.56:346][991]LogFileHelpers: Saving map 'Map' took 0.093
+[2020.05.27-02.18.56:356][991]AssetCheck: New page: Asset Save: Map
+[2020.05.27-02.18.56:356][991]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2020.05.27-02.18.57:551][ 62]LogEditorViewport: Clicking on Actor (LMB): Block_C (Block)
+[2020.05.27-02.19.59:558][772]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.20.22:127][245]BlueprintLog: New page: Compile Block
+[2020.05.27-02.20.22:382][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.05.27-02.20.22:689][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Block" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset" SILENT=true
+[2020.05.27-02.20.22:706][259]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Block19F861944A0ED2144E229FA246A838B2.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Blueprints/Block.uasset'
+[2020.05.27-02.20.22:719][259]AssetCheck: New page: Asset Save: Block
+[2020.05.27-02.20.22:719][259]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Block.Block
+[2020.05.27-02.20.32:451][842]LogEditorViewport: Clicking Background
+[2020.05.27-02.20.36:054][ 57]LogEditorViewport: Clicking Background
+[2020.05.27-02.23.18:504][794]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.24.27:336][ 72]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.25.21:993][868]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.25.40:935][972]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.26.14:153][886]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.27.10:417][698]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.28.57:104][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.05.27-02.28.57:143][384]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Map_Auto7F14AD32E4F115DA8EB2DD49BBE8645D2.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Autosaves/Game/Maps/Map_Auto7.umap'
+[2020.05.27-02.28.57:148][384]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map' took 0.414
+[2020.05.27-02.28.57:148][384]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.414
+[2020.05.27-02.42.43:404][905]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.27-02.42.43:426][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.27-02.42.43:426][905]PIE: New page: PIE session: Map (28/05/2020, 2:42:43 am)
+[2020.05.27-02.42.43:426][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.42.43:433][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006264s)
+[2020.05.27-02.42.43:433][905]LogAIModule: Creating AISystem for world Map
+[2020.05.27-02.42.43:434][905]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2020.05.27-02.42.43:434][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.007299s)
+[2020.05.27-02.42.43:466][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.05.27-02.42.43:467][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-02.42.43:467][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-02.42.43:467][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-02.42.43:467][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-02.42.43:467][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-02.42.43:467][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-02.42.43:467][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-02.42.43:467][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-02.42.43:468][905]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-02.42.43:468][905]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: Channel Order:
+[2020.05.27-02.42.43:481][905]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-02.42.43:482][905]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-02.42.43:482][905]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-02.42.43:482][905]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-02.42.43:482][905]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-02.42.43:482][905]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-02.42.43:482][905]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-02.42.43:482][905]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-02.42.43:559][905]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.27-02.42.43:561][905]LogInit: FAudioDevice initialized.
+[2020.05.27-02.42.43:593][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.42.43:594][905]LogLoad: Game class is 'MyGameMode_C'
+[2020.05.27-02.42.43:596][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2020.05.27-14.42.43
+[2020.05.27-02.42.43:596][905]LogWorld: Bringing up level for play took: 0.002294
+[2020.05.27-02.42.43:597][905]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.05.27-02.42.43:598][905]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.42.43:598][905]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.42.43:598][905]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.42.43:599][905]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.42.43:601][905]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 1.017
+[2020.05.27-02.44.48:268][381]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.44.48:268][381]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.44.48:268][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.44.48:268][381]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.44.48:278][381]LogSlate: Window 'BrickBreaker Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.27-02.44.48:284][381]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.44.48:284][381]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-02.44.48:284][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.44.48:293][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-02.44.48:297][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.44.48:330][381]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.44.48:338][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.05.27-02.44.48:370][383]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.05.27-02.47.18:184][882]LogEditorViewport: Clicking Background
+[2020.05.27-02.47.24:397][ 24]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.27-02.47.24:418][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.27-02.47.24:419][ 24]PIE: New page: PIE session: Map (28/05/2020, 2:47:24 am)
+[2020.05.27-02.47.24:419][ 24]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.47.24:425][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005995s)
+[2020.05.27-02.47.24:425][ 24]LogAIModule: Creating AISystem for world Map
+[2020.05.27-02.47.24:426][ 24]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2020.05.27-02.47.24:426][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.006922s)
+[2020.05.27-02.47.24:458][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-02.47.24:461][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-02.47.24:461][ 24]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-02.47.24:461][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: Channel Order:
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-02.47.24:475][ 24]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-02.47.24:552][ 24]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.27-02.47.24:553][ 24]LogInit: FAudioDevice initialized.
+[2020.05.27-02.47.24:586][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.47.24:586][ 24]LogLoad: Game class is 'MyGameMode_C'
+[2020.05.27-02.47.24:588][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2020.05.27-14.47.24
+[2020.05.27-02.47.24:588][ 24]LogWorld: Bringing up level for play took: 0.001833
+[2020.05.27-02.47.24:588][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.05.27-02.47.24:590][ 24]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.47.24:590][ 24]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.47.24:590][ 24]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.47.24:591][ 24]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.47.24:592][ 24]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 0.008
+[2020.05.27-02.47.34:393][459]LogRenderer: Reallocating scene render targets to support 1572x720 Format 10 NumSamples 1 (Frame:481).
+[2020.05.27-02.47.34:439][459]LogRenderer: Reallocating scene render targets to support 1592x720 Format 10 NumSamples 1 (Frame:482).
+[2020.05.27-02.47.34:482][459]LogRenderer: Reallocating scene render targets to support 1612x720 Format 10 NumSamples 1 (Frame:483).
+[2020.05.27-02.47.34:526][459]LogRenderer: Reallocating scene render targets to support 1644x720 Format 10 NumSamples 1 (Frame:484).
+[2020.05.27-02.47.34:571][459]LogRenderer: Reallocating scene render targets to support 1672x720 Format 10 NumSamples 1 (Frame:485).
+[2020.05.27-02.47.34:614][459]LogRenderer: Reallocating scene render targets to support 1720x720 Format 10 NumSamples 1 (Frame:486).
+[2020.05.27-02.50.58:622][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.50.58:622][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.50.58:622][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.50.58:622][448]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.50.58:636][448]LogSlate: Window 'BrickBreaker Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.27-02.50.58:644][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.50.58:644][448]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-02.50.58:644][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.50.58:654][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-02.50.58:660][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.50.58:688][448]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.50.58:697][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.05.27-02.50.58:729][450]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.05.27-02.51.42:949][ 85]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.51.46:901][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.27-02.51.46:953][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.05.27-02.51.46:988][319]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Map0D5B1C7447E3434E9DCFFEB6B078E5DB.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap'
+[2020.05.27-02.51.47:011][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2020.05.27-02.51.47:053][319]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Map_BuiltData45686E8D4CEAD327254BE0B1FD3F3369.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map_BuiltData.uasset'
+[2020.05.27-02.51.47:071][319]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.27-02.51.47:071][319]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2020.05.27-02.51.47:071][319]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
+[2020.05.27-02.51.49:464][462]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.27-02.51.49:481][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.27-02.51.49:481][462]PIE: New page: PIE session: Map (28/05/2020, 2:51:49 am)
+[2020.05.27-02.51.49:481][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.51.49:487][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006274s)
+[2020.05.27-02.51.49:488][462]LogAIModule: Creating AISystem for world Map
+[2020.05.27-02.51.49:488][462]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2020.05.27-02.51.49:488][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.007205s)
+[2020.05.27-02.51.49:519][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-02.51.49:521][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-02.51.49:521][462]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-02.51.49:521][462]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: Channel Order:
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-02.51.49:535][462]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-02.51.49:614][462]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.27-02.51.49:616][462]LogInit: FAudioDevice initialized.
+[2020.05.27-02.51.49:653][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.51.49:653][462]LogLoad: Game class is 'MyGameMode_C'
+[2020.05.27-02.51.49:655][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2020.05.27-14.51.49
+[2020.05.27-02.51.49:655][462]LogWorld: Bringing up level for play took: 0.001829
+[2020.05.27-02.51.49:655][462]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.05.27-02.51.49:657][462]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.51.49:657][462]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.51.49:657][462]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.51.49:659][462]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.51.49:661][462]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 1.076
+[2020.05.27-02.51.55:174][788]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.51.55:174][788]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.51.55:174][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.51.55:174][788]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.51.55:183][788]LogSlate: Window 'BrickBreaker Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.27-02.51.55:186][788]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.51.55:186][788]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-02.51.55:187][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.51.55:197][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-02.51.55:201][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.51.55:231][788]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.51.55:239][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.05.27-02.51.55:285][791]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.05.27-02.52.36:316][245]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.52.55:497][364]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.52.56:884][447]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.27-02.52.56:902][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.27-02.52.56:902][447]PIE: New page: PIE session: Map (28/05/2020, 2:52:56 am)
+[2020.05.27-02.52.56:902][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.52.56:908][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006358s)
+[2020.05.27-02.52.56:909][447]LogAIModule: Creating AISystem for world Map
+[2020.05.27-02.52.56:909][447]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2020.05.27-02.52.56:909][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.007210s)
+[2020.05.27-02.52.56:981][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-02.52.56:984][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-02.52.56:984][447]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-02.52.56:984][447]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: Channel Order:
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-02.52.56:998][447]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-02.52.57:072][447]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.27-02.52.57:074][447]LogInit: FAudioDevice initialized.
+[2020.05.27-02.52.57:105][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.52.57:105][447]LogLoad: Game class is 'MyGameMode_C'
+[2020.05.27-02.52.57:107][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2020.05.27-14.52.57
+[2020.05.27-02.52.57:107][447]LogWorld: Bringing up level for play took: 0.001734
+[2020.05.27-02.52.57:107][447]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.05.27-02.52.57:109][447]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.52.57:109][447]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.52.57:109][447]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.52.57:109][447]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.52.57:111][447]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 0.526
+[2020.05.27-02.53.07:047][ 41]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.53.07:047][ 41]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.53.07:048][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.53.07:048][ 41]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.53.07:057][ 41]LogSlate: Window 'BrickBreaker Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.27-02.53.07:063][ 41]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.53.07:063][ 41]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-02.53.07:063][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.53.07:071][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-02.53.07:075][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.53.07:104][ 41]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.53.07:112][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.05.27-02.53.07:159][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.05.27-02.55.36:614][797]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.27-02.55.37:698][862]LogEditorViewport: Clicking Background
+[2020.05.27-02.55.38:537][911]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.27-02.55.38:563][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.27-02.55.38:563][911]PIE: New page: PIE session: Map (28/05/2020, 2:55:38 am)
+[2020.05.27-02.55.38:564][911]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.55.38:573][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009180s)
+[2020.05.27-02.55.38:573][911]LogAIModule: Creating AISystem for world Map
+[2020.05.27-02.55.38:574][911]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2020.05.27-02.55.38:574][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.010103s)
+[2020.05.27-02.55.38:899][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.27-02.55.38:902][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-02.55.38:902][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-02.55.38:902][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-02.55.38:902][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-02.55.38:902][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-02.55.38:902][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-02.55.38:902][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-02.55.38:902][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-02.55.38:903][911]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-02.55.38:903][911]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: Channel Order:
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-02.55.38:917][911]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-02.55.38:993][911]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.05.27-02.55.38:994][911]LogInit: FAudioDevice initialized.
+[2020.05.27-02.55.39:026][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.55.39:026][911]LogLoad: Game class is 'MyGameMode_C'
+[2020.05.27-02.55.39:028][911]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2020.05.27-14.55.39
+[2020.05.27-02.55.39:028][911]LogWorld: Bringing up level for play took: 0.001841
+[2020.05.27-02.55.39:029][911]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.05.27-02.55.39:030][911]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.55.39:030][911]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.05.27-02.55.39:030][911]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.55.39:031][911]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.05.27-02.55.39:033][911]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 0.448
+[2020.05.27-02.55.42:044][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.55.42:044][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.55.42:045][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-02.55.42:045][ 90]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2020.05.27-02.55.42:054][ 90]LogSlate: Window 'BrickBreaker Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.27-02.55.42:057][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.55.42:057][ 90]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-02.55.42:057][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.55.42:068][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-02.55.42:072][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-02.55.42:105][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-02.55.42:112][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.05.27-02.55.42:143][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.05.27-02.56.04:152][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.27-02.56.04:186][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.27-02.56.04:217][203]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/MapCA35471E4DB23A6DB5FA74987CD282B6.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map.umap'
+[2020.05.27-02.56.04:240][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2020.05.27-02.56.04:280][203]LogSavePackage: Moving '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Saved/Map_BuiltDataBC5E250C4530EC4D3E9B599D391EBCE8.tmp' to '../../../../../../Users/vnod5/Desktop/Unreal_Brick_Breaker/BrickBreaker/Content/Maps/Map_BuiltData.uasset'
+[2020.05.27-02.56.04:298][203]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.27-02.56.04:298][203]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2020.05.27-02.56.04:298][203]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_BuiltData.Map_BuiltData
